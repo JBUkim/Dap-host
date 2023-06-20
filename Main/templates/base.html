@@ -171,8 +171,9 @@ body {
         <li><a href="#" style="text-decoration: none;">취약점진단[MANUAL]</a>
           <ul class="dropdown-menu">
             <li><a href="{% url 'diagnosis' %}" style="text-decoration-style: dashed;">취약점진단[수동]</a></li>
-            {% comment %} <li><a href="{% url 'model_form_upload' %}" style="text-decoration-style: dashed;">취약점진단[수동진행]</a></li> {% endcomment %}
-            <li><a href="{% url 'model_form' %}" style="text-decoration-style: dashed;">취약점진단[수동확인]</a></li>
+            <li><a href="{% url 'model_form_upload' %}" style="text-decoration-style: dashed;">취약점진단[직접입력]</a></li>
+            <li><a href="{% url 'model_form' %}" style="text-decoration-style: dashed;">취약점진단[입력기록]</a></li>
+            <li><a href="{% url 'pyqt5' %}" style="text-decoration-style: dashed;">취약점진단[수동확인]</a></li>
           </ul>
         </li>
         <li><a href="{% url 'board' %}" style="text-decoration: none;">게시판</a></li>

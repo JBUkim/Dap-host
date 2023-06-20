@@ -33,15 +33,10 @@ class DocumentForm(forms.ModelForm):
             "description1",
             "description2",
             "description3",
+            "description4",
+            "description5",
             "document",
         ]
-        labels = {
-            "uploader": "업로더",
-            "description1": "항목1 점수",
-            "description2": "항목2 점수",
-            "description3": "항목3 점수",
-            "document": "파일",
-        }
 
 
 class AutouploadForm(forms.ModelForm):
