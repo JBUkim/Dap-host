@@ -1,8 +1,6 @@
 # Dap-host
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Do and Pray&fontSize=90" />
 
-Made by Team. DoAndPray
-
+<div align="center">## Made by Team. DoAndPray</div>
 <div align="center">91813200 정보보호학과 최용준</div>
 <div align="center">91812103 정보보호학과 김다혁</div>
 <div align="center">91812165 정보보호학과 김용훈</div>
