@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?.svg?style=flat&logo=JavaScript&logoColor=white" />
 </div>	
 
-**<div align="center">Tolls</div>**
+**<div align="center">Tools</div>**
 <div align="center">
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white" />
