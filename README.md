@@ -11,15 +11,19 @@ Made by Team. DoAndPray
 91813286 정보보호학과 허   현
 
 # Stack
-platforms & Languages
+<div align="center">platforms & Languages<div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-Tools
+<div align="center">Tools<div>
+<div align="center">
+	<img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/github-#181717?style=flat&logo=HTML5&logoColor=white" />
+</div>
 
 
 # Demo
