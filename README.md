@@ -2,14 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Do%20And%20Pray&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 ## Navigation
-1. [Members](##members)
-2. [Stacks](#types)
+1. [Members](#members)
+2. [Stacks](#stacks)
 3. [Color](#color)
 4. [Demo](##demo)
-5. [Section](#section)
 
-
-## Members
+# Members
 **<div align="center"> Team. Do And Pray </div>**
 <div align="center">91813200 정보보호학과 최용준</div>
 <div align="center">91812103 정보보호학과 김다혁</div>
