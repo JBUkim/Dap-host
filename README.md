@@ -9,7 +9,7 @@
 <div align="center">91813286 정보보호학과 허현</div>
 
 # Stack
-**<div align="center">platforms & Languages</div>**
+**<div align="center">Platforms & Languages</div>**
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?.svg?style=flat&logo=JavaScript&logoColor=white" />
 </div>	
 
-<div align="center">Tools</div>
+**<div align="center">Tolls</div>**
 <div align="center">
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white" />
