@@ -1,6 +1,6 @@
 # Dap-host
 
-<div align="center">## Made by Team. DoAndPray</div>
+## Made by Team. DoAndPray
 <div align="center">91813200 정보보호학과 최용준</div>
 <div align="center">91812103 정보보호학과 김다혁</div>
 <div align="center">91812165 정보보호학과 김용훈</div>
