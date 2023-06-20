@@ -3,15 +3,15 @@
 
 Made by Team. DoAndPray
 
-91813200 정보보호학과 최용준
-91812103 정보보호학과 김다혁
-91812165 정보보호학과 김용훈
-91812969 정보보호학과 이진욱
-91812713 정보보호학과 원주연
-91813286 정보보호학과 허   현
+<div align="center">91813200 정보보호학과 최용준</div>
+<div align="center">91812103 정보보호학과 김다혁</div>
+<div align="center">91812165 정보보호학과 김용훈</div>
+<div align="center">91812969 정보보호학과 이진욱</div>
+<div align="center">91812713 정보보호학과 원주연</div>
+<div align="center">91813286 정보보호학과 허현</div>
 
 # Stack
-<div align="center">platforms & Languages<div>
+<div align="center">platforms & Languages</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -19,7 +19,7 @@ Made by Team. DoAndPray
 	<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-<div align="center">Tools<div>
+<div align="center">Tools</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/visualstudiocode-#007ACC?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-#181717?style=flat&logo=HTML5&logoColor=white" />
