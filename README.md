@@ -1,6 +1,6 @@
 # Dap-host
 
-## Made by Team. DoAndPray
+## Team. Do And Pray
 <div align="center">91813200 정보보호학과 최용준</div>
 <div align="center">91812103 정보보호학과 김다혁</div>
 <div align="center">91812165 정보보호학과 김용훈</div>
@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=white" />
 </div>
 
 <div align="center">Tools</div>
