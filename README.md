@@ -1,4 +1,12 @@
 # Dap-host
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Do%20rand%20Pray&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
+## Navigation
+1. [How to Use](#how-to-use)
+2. [Types](#types)
+3. [Color](#color)
+4. [Custom Color List](#custom-color-list)
+5. [Section](#section)
 
 **<div align="center"> Team. Do And Pray </div>**
 <div align="center">91813200 정보보호학과 최용준</div>
@@ -8,7 +16,7 @@
 <div align="center">91812713 정보보호학과 원주연</div>
 <div align="center">91813286 정보보호학과 허현</div>
 
-# Stack
+# Stacks
 **<div align="center">Platforms & Languages</div>**
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
